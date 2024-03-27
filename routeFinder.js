@@ -1,4 +1,4 @@
-const apiKey = 'oiFyPD_qpmnfS9lKpP6uge8OPneZ0rITpPUgvvTQgeY';
+const apiKey = 'API_KEY';
 
 async function findRoute() {
     const startPoint = document.getElementById('startPoint').value;
